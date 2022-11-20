@@ -1,0 +1,122 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+body{
+    margin: 0px;
+}
+
+tr{
+    cursor: pointer;
+}
+
+.inputError{
+    border: 1px solid red;
+    color: red;
+}
+
+.smallError{
+    color: red;
+    font-weight: bold;
+    display: block;
+}
+
+button{
+    opacity: .8;
+}
+
+button:hover{
+    opacity: 1;
+}
+
+#logo{
+    width: 100px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 120px;
+}
+
+.orange{
+    background-color: rgba(158, 60, 14, 0.938) !important;
+}
+
+footer nav{
+    height: 120px;
+}
+
+div small{
+    color: white;
+}
+
+.fondoPrincipal{
+    background-image: url("../images/administracion.jpg");
+    background-size: cover;
+}
+
+.sinFondo{
+    background-color: transparent;
+}
+
+.div-titulo{
+    display: flex;
+    align-items: flex-end;
+    justify-content: start;
+    height: 400px;
+}
+.div-titulo h1{
+    width: 40%;
+    color: white;
+}
+
+#contenidoDinamico{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.estiloParaArticulo{
+    width: 400px !important;
+    background-color: rgb(183, 255, 231);    
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 10px;
+}
+
+.estiloParaArticulo p:nth-child(3){
+    color: rgb(77, 124, 7);
+    font-weight: bold;
+}
+
+.estiloParaArticulo button{
+    width: 98%;
+}
+
+.estiloParaArticulo > div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.estiloParaArticulo div div{
+    display: flex;
+    width: 30%;
+    margin: 3px;
+}
+
+.estiloParaArticulo img{
+    width: 20px;
+}
+
+#administracion img{
+    width: 100%;
+    height: 300px;
+}
+
+button img{
+    width: 15px;
+}

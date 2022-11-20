@@ -1,0 +1,54 @@
+{
+  "mascotas": [
+    {
+      "id": 1668885956278,
+      "titulo": "Gary",
+      "descripcion": "marron y blanco",
+      "animal": "perro",
+      "precio": "$4.321",
+      "raza": "pepe",
+      "fecha": "11/12/2001",
+      "vacuna": "si"
+    },
+    {
+      "id": 1668956990334,
+      "titulo": "bruce",
+      "descripcion": "marron",
+      "animal": "perro",
+      "precio": "$1.234",
+      "raza": "pitbull",
+      "fecha": "11/12/2022",
+      "vacuna": "si"
+    },
+    {
+      "id": 1668957077458,
+      "titulo": "riku",
+      "descripcion": "castrado",
+      "animal": "gato",
+      "precio": "$1.111",
+      "raza": "siames",
+      "fecha": "11/12/2022",
+      "vacuna": "no"
+    },
+    {
+      "id": 1668957120002,
+      "titulo": "michi",
+      "descripcion": "blanco",
+      "animal": "gato",
+      "precio": "$2.222",
+      "raza": "comun",
+      "fecha": "11/12/2022",
+      "vacuna": "si"
+    },
+    {
+      "id": 1668961714706,
+      "titulo": "aaaaaaaaa",
+      "descripcion": "22222",
+      "animal": "perro",
+      "precio": "$234",
+      "raza": "33333",
+      "fecha": "11/12/2022",
+      "vacuna": "si"
+    }
+  ]
+}
